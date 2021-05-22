@@ -28,8 +28,8 @@ def Plot_Graph(Path, value1, value2):
     fig.show()
 
 
-path1 = "C:/Users/sraav_1jk4baa/OneDrive/Desktop/WhitehatJr Python/Projects/Corellation/Data1.csv"
-path2 = "C:/Users/sraav_1jk4baa/OneDrive/Desktop/WhitehatJr Python/Projects/Corellation/Data2.csv"
+path1 = "Data1.csv"
+path2 = "Data2.csv"
 
 valueA1 = "Coffee in ml"
 valueA2 = "sleep in hours"
